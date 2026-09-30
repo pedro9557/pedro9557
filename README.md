@@ -5,6 +5,7 @@ Hi, my name is Pedro.
 [Active Directory Home Lab] (https://github.com/pedro9557/Active-Directory-Lab-) 
 <p align="center">
 [Windows Event Log Investigation] (https://github.com/pedro9557/Windows-Event-Log-Investigation/tree/main)
-
+<p align="center">
+[Wazuh Successful Logon Detection] (https://github.com/pedro9557/Wazuh-Successful-Logon-Detection/tree/main)
 
 
