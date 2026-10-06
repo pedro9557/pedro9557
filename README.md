@@ -1,4 +1,4 @@
-Hi, my name is Pedro.
+Hi, my name is Pedro. Building toward a SOC analyst role through hands-on labs in SIEM, log analysis, Active Directory, and IT support. 
 
 <h2>🧑‍💻Cybersecurity Homelab Projects🧑‍💻</h2>
 <p align="center"> 
