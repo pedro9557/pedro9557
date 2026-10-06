@@ -7,5 +7,6 @@ Hi, my name is Pedro.
 [Windows Event Log Investigation] (https://github.com/pedro9557/Windows-Event-Log-Investigation/tree/main)
 <p align="center">
 [Wazuh Successful Logon Detection] (https://github.com/pedro9557/Wazuh-Successful-Logon-Detection/tree/main)
-
+<p align="center">
+[Help Desk Ticketing Lab] (https://github.com/pedro9557/Help-Desk-Ticketing-Lab/tree/main)
 
